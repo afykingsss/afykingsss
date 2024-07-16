@@ -1,4 +1,4 @@
-- 👋 Hi, I’m afy 
+- 👋 Hi, I’m afy Jarangga
 - 👀 I’m interested in Coding with Python
 - 🌱 I’m currently learning Machine Learning 
 - 📫 How to reach me @afykings@gmail.com
